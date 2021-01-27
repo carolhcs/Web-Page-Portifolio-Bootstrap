@@ -1,10 +1,10 @@
-# Project for Portifolio and Learning "Personal Web Page in Bootstrap - carolhcs (2017)
+# Project for Portfolio and Learning "Personal Web Page in Bootstrap - carolhcs (2017)
 
-:page_facing_up: This a personal web page create for learning and portifolio (CarolHCS)<br><br>
+:page_facing_up: This a personal web page create for learning and portfolio (CarolHCS)<br><br>
 
 This page was created with a bootstrap model.<br><br>
 
-## [See my personal web page and portifolio: ](https://carolsalvato.com/) [<https://carolsalvato.com/>](https://carolsalvato.com/)
+## [See my personal web page and portfolio: ](https://carolsalvato.com/) [<https://carolsalvato.com/>](https://carolsalvato.com/)
 
 :octocat: :coffee: <br>
 
